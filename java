@@ -1,4 +1,4 @@
-import java.unil.Scanner;
+import java.util.Scanner;
 
 public class Final_project {
     public static void main(String[] args){
